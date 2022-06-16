@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/memorygame/static/css/main.de9b1ce7.css",
+    "main.js": "/memorygame/static/js/main.28523efe.js",
+    "static/media/Raspbian.png": "/memorygame/static/media/Raspbian.47ca8e4f8020a2fd5a27.png",
+    "static/media/mint.png": "/memorygame/static/media/mint.7806eafa6a50e1930438.png",
+    "static/media/Ubuntu.png": "/memorygame/static/media/Ubuntu.a226abd485044f7691ad.png",
+    "static/media/RedHat.png": "/memorygame/static/media/RedHat.5239318426f44bff4320.png",
+    "static/media/opensuse.png": "/memorygame/static/media/opensuse.10f6d826052be6812678.png",
+    "static/media/kalilinux.jpeg": "/memorygame/static/media/kalilinux.2456b6a8971d2ad2f15d.jpeg",
+    "static/media/fedora.png": "/memorygame/static/media/fedora.f060163ccf996e19ed9b.png",
+    "static/media/Debian.png": "/memorygame/static/media/Debian.2c5417ee50d402481d4c.png",
+    "static/media/archlinux.png": "/memorygame/static/media/archlinux.9632c53ef1636ad8b121.png",
+    "static/media/linuxlite.png": "/memorygame/static/media/linuxlite.05f81aa10d7d6fb03ef6.png",
+    "static/media/gentoo.png": "/memorygame/static/media/gentoo.b601e30dd37339871077.png",
+    "static/media/feren.png": "/memorygame/static/media/feren.5b37498b0a1f6ef73064.png",
+    "static/media/void.png": "/memorygame/static/media/void.63609bd992a4926b1c40.png",
+    "static/media/endless.png": "/memorygame/static/media/endless.85b61d3a8076c22a566b.png",
+    "static/media/CentOS.svg": "/memorygame/static/media/CentOS.c5283bf08ea6f10233fb5296cb31ee35.svg",
+    "index.html": "/memorygame/index.html",
+    "main.de9b1ce7.css.map": "/memorygame/static/css/main.de9b1ce7.css.map",
+    "main.28523efe.js.map": "/memorygame/static/js/main.28523efe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de9b1ce7.css",
+    "static/js/main.28523efe.js"
+  ]
+}
